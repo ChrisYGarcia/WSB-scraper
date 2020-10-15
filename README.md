@@ -1,2 +1,4 @@
 # WSB-scraper
-Web scraper that fetches most frequently mentioned tickers and options from r/wallstreetbets
+Web scraper using selenium and numpy that fetches most frequently mentioned tickers and options from r/wallstreetbets
+
+
